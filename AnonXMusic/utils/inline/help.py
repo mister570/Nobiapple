@@ -20,7 +20,7 @@ def help_pannel(_, START: Union[bool, int] = None):
         InlineKeyboardButton(text="•📡 𝐒ᴜᴘᴘᴏʀᴛ 🌐•", url="https://t.me/NobiCreator"),
     ],
     [
-        InlineKeyboardButton(text="•👑 𝐎ᴡɴᴇʀ ⚜️•", url="https://t.me/KingXOwner"),
+        InlineKeyboardButton(text="•👑 𝐎ᴡɴᴇʀ ⚜️•", url="https://t.me/AboutBotMaker"),
     ],
     [
         InlineKeyboardButton(text="•🤖 𝐀ʟʟ 𝐁ᴏᴛꜱ 🛠️•", url="https://t.me/KING_BOT_UPDATE/4"),
