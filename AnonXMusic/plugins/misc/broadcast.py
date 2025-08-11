@@ -20,7 +20,7 @@ from config import adminlist
 IS_BROADCASTING = False
 
 
-@app.on_message(filters.command("srajputbroadcast") & SUDOERS)
+@app.on_message(filters.command("broadcast") & SUDOERS)
 @language
 async def braodcast_message(client, message, _):
     global IS_BROADCASTING
@@ -228,3 +228,4 @@ async def auto_clean():
 
 
 asyncio.create_task(auto_clean())
+
