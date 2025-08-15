@@ -83,18 +83,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://files.catbox.moe/155rzr.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/f1k78w.png"
+    "PING_IMG_URL", "https://files.catbox.moe/03n59u.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/k0cxs3.png"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/yskap8.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yskap8.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/3llj9d.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/3llj9d.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/3llj9d.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/155rzr.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/03n59u.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/yskap8.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/155rzr.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/155rzr.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/yskap8.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/03n59u.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/yskap8.jpg"
 
 
 def time_to_seconds(time):
